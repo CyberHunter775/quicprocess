@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zebragg.quicprocess.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zebragg.quicprocess.MyBundle
 
 class MyApplicationService {
 
